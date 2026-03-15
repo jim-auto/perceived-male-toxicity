@@ -1,5 +1,7 @@
 # perceived-male-toxicity
 
+https://jim-auto.github.io/perceived-male-toxicity/
+
 Estimate **perceived male "toxicity" in fashion** — the *perceived dangerous / dominant / edgy attractiveness* of a male outfit.
 
 ## What is "perceived toxicity"?
